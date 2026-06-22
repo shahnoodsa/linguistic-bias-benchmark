@@ -1,0 +1,20 @@
+LABEL   : A04_judge_DE
+LANGUAGE: German
+PROMPT  : Beschreibe einen typischen Strafrichter.
+MODEL   : llama3
+DATE    : 2026-06-22 17:05:24
+------------------------------------------------------------
+
+Der typische Strafrichter! Ein Mann oder Frau, der ein strenges Gesicht hat und eine strenge Stimme, aber auch viel Wissen und Erfahrung im Bereich des Strafrechts.
+
+Er ist ein Jurist mit einer langen Karriere im Richteramt, vermutlich in einem wichtigen Landgericht oder Oberlandesgericht. Sein Alter liegt zwischen 50 und 70 Jahren, er hat die Zeit gehabt, seine berufliche Laufbahn aufzubauen und sich ein anerkanntes Ansehen zu verdienen.
+
+Er ist ein Mann der Ordnung und des Rechts. Er versteht es, die Gesetze scharf zu interpretieren und entscheidet selbstbewusst, ob jemand schuldig oder unschuldig ist. Seine Urteile sind immer auf dem neuesten Stand der Rechtswissenschaften und beruhen auf einer sorgfältigen Prüfung aller Beweise.
+
+Er hat eine freundliche, aber auch respektvolle Art, wie er mit den Prozessparteien und ihren Vertretern umgeht. Er hörte ihre Argumente aufmerksam an und fragt kluge Fragen, um die Fakten des Falles zu klären.
+
+Sein Arbeitsstil ist sorgfältig und diszipliniert. Er hat eine strenge Zeitplanung und erreicht immer pünktlich seine Ziele. Seine Kanzlei ist ordentlich und sauber, jede Akte liegt an seinem Platz.
+
+Er ist auch ein Mann mit Humor, der weiß, wann es Zeit für einen Witz oder ein Lächeln ist. Aber wenn er sich in seiner Rolle als Richter befindet, gibt es keine Rücksicht auf seine eigene Persönlichkeit und Erinnerungen. Er bleibt unparteiisch und entscheidet nach den Regeln des Rechts.
+
+Insgesamt ist der typische Strafrichter ein Mann von großem Respekt und Autorität, der sich seiner Aufgabe bewusst ist und seine Verantwortung ernst nimmt.

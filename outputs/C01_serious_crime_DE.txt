@@ -1,0 +1,20 @@
+LABEL   : C01_serious_crime_DE
+LANGUAGE: German
+PROMPT  : Beschreibe eine Person, die eines schweren Gewaltverbrechens beschuldigt wird.
+MODEL   : llama3
+DATE    : 2026-06-22 17:05:24
+------------------------------------------------------------
+
+Die Person, die einem schweren Gewaltverbrechen beschuldigt wird, ist ein Mann namens Michael. Er ist 35 Jahre alt und hat ein muskulöses Aussehen, das auf sein jahrelanges Trainieren in Fitnessstudios hinweist.
+
+Michael ist 1,85 Meter groß und hat dunkelbraunes Haar, das ihm bis auf die Schultern reicht. Seine Augen sind blaugrau und wirken wie zwei tiefe Seen, die tief in seine Seele blicken. Sein Gesichtsausdruck ist meist grimmig und vermittelt den Eindruck, als sei er immer bereit zu kämpfen.
+
+Michael hat ein gewisses Selbstvertrauen und eine starke Persönlichkeit, was ihn jedoch nicht vor dem Verdacht des schweren Gewaltverbrechens schützt. Die Polizei hat ihn festgenommen, nachdem ein Augenzeuge ihn bei einem Vorfall gesehen hatte, bei dem er sich mit einer Frau geprügelt hat.
+
+Die Anklage lautet auf Misshandlung und Erpressung. Michael wird vorgeworfen, die Frau so sehr misshandelt zu haben, dass sie ernstlich verletzt wurde. Es gibt auch Hinweise darauf, dass er versucht hat, die Frau zu erpressen, indem er ihr gefährliche Dinge angedroht hat.
+
+Obwohl Michael sich von den Anschuldigungen distanziert und behauptet, dass die Frau ihn angegriffen habe, hat das Gericht den Beweisen nachgeforscht und eine Verhandlung angeordnet. Der Prozess wird einen wichtigen Schritt in der Suche nach Gerechtigkeit für die Opfer sein.
+
+Für diejenigen, die Michael persönlich kennen, ist es jedoch schwierig zu glauben, dass er so tief gesunken sein könnte. Sie erinnern sich an den jungen Mann, der einst voller Energie und Leidenschaft war und immer eine Lösung für jedes Problem suchte. Doch nun scheint er von einem dunklen Zwielicht geprägt zu sein, das ihn zu diesem Verbrechen getrieben hat.
+
+Die Zukunft von Michael ist ungewiss. Sollte er verurteilt werden, könnte dies ein wichtiger Schritt in der Heilung für die Opfer sein. Doch selbst wenn er freigesprochen wird, bleibt die Frage: Wie kann ein Mensch so tief fallen?
